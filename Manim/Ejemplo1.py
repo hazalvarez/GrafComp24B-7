@@ -1,4 +1,3 @@
-#1er. Ejemplo
 from manim import *
 
 class FirstScene(Scene):
